@@ -1,2 +1,2 @@
-# Practica3
-Práctica 3 correspondiente a la materia de Programación de Aplicaciones Web, UNACH.
+# Practica3_html
+Archivos iniciales para practicar el uso de github
